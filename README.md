@@ -1,13 +1,17 @@
-<div align = "center"><img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" alt="Eneko Eguiguren" height="400">
+<div align="center"><img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" alt="Eneko Eguiguren" height="500">
 
-
+<br/> 
+  
 ### **<div align="center"> DATA SCIENCE | BUSINESS ANALYST</div>**  
   
-
+<div align="left">
+  
 - 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren) due to my motivation to professionally develop my knowledge in Data Science.
   
 
 ## **<div align="left"> EDUCATION</div>**  
+  
+
 - 🧑‍🎓 Expert Program in Python for Big Data & Data Science
 
   
@@ -15,6 +19,7 @@
 
 - 🧑‍🎓 Master in Business Analytics
   
+<br/>  
   
 ## **<div align="left"> INTERESTS</div>**  
 
