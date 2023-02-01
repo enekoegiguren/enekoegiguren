@@ -1,12 +1,13 @@
-<img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<div align = "center"><img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" alt="Eneko Eguiguren" height="400">
 
 
 ### **<div align="center"> DATA SCIENCE | BUSINESS ANALYST</div>**  
   
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren)  
+- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren) due to my motivation to professionally develop my knowledge in Data Science.
   
 
+## **<div align="left"> EDUCATION</div>**  
 - 🧑‍🎓 Expert Program in Python for Big Data & Data Science
 
   
@@ -15,8 +16,16 @@
 - 🧑‍🎓 Master in Business Analytics
   
   
+## **<div align="left"> INTERESTS</div>**  
 
-- MACHINE LEARNING 📈📉  
+- MACHINE LEARNING 📈📉 
+
+
+- BUSINESS INTELLIGENCE
+
+
+- EXPLORATORY DATA ANALYISIS
+  
   
 
 <br/>  
@@ -34,15 +43,24 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 ### Data Visualisation  
 <div align="center">  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Matplotlib.svg.png" alt="Power Bi" height="40" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/seaborn.svg.png" alt="Power Bi" height="50" /></a> 
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+
+
+</td><td valign="top" width="33%">
+
+  
+### Tools
+<div align="center">  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Pandas_logo.svg.png" alt="R" height="50" /></a>  
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/NumPy.svg.png" alt="R" height="50" /></a>  
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Scikit_learn.svg.png" alt="R" height="50" /></a>  
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -51,11 +69,11 @@
 ### Next skills..   
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
