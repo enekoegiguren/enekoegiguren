@@ -6,7 +6,7 @@
   
 <div align="left">
   
-- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren) due to my motivation to professionally develop my knowledge in Data Science.
+- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren?tab=repositories) due to my motivation to professionally develop my knowledge in Data Science.
   
 
 ## **<div align="left"> EDUCATION</div>**  
