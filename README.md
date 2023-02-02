@@ -1,4 +1,4 @@
-![alt text](https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png)
+![alt text](https://github.com/enekoegiguren/enekoegiguren/blob/main/png/BIG%20DATA_ENEKO%20EGUIGUREN-01.png)
 
 <br/> 
   
