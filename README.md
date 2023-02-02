@@ -1,9 +1,25 @@
-![alt text](https://github.com/enekoegiguren/enekoegiguren/blob/main/png/BIG%20DATA_ENEKO%20EGUIGUREN-01.png)
+<div id="header" align="center">
+  <img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" width="1000"/>
+</div>
 
 <br/> 
+
+
   
 ### **<div align="center"> DATA SCIENCE | BUSINESS ANALYST</div>**  
-  
+
+
+<br/> 
+
+<div align="center">
+</a>
+<a href="https://linkedin.com/in/enekoegiguren" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
+![Profile views counter](https://komarev.com/ghpvc/?username=enekoegiguren&&style=flat-square) 
+
+
 <div align="left">
   
 - 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren?tab=repositories) due to my motivation to professionally develop my knowledge in Data Science.
