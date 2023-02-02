@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" alt="Eneko Eguiguren" height="500">
+![alt text](https://github.com/enekoegiguren/enekoegiguren/blob/main/BIG%20DATA_ENEKO%20EGUIGUREN-01.png)
 
 <br/> 
   
