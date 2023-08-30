@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/BIG%20DATA_ENEKO%20EGUIGUREN-01.png" width="1000"/>
+  <img src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Data_page.jpeg" width="1000"/>
 </div>
 
 <br/> 
