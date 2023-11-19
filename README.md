@@ -6,7 +6,7 @@
 
 
   
-### **<div align="center"> DATA SCIENCE | BUSINESS ANALYST</div>**  
+
 
 
 <br/> 
