@@ -27,6 +27,9 @@
 
 ## **<div align="left"> EDUCATION</div>**  
   
+- 🧑‍🎓 Data Engineer, diploma co-certified by MINES ParisTech | PSL & DataScientest
+
+
 
 - 🧑‍🎓 Expert Program in Python for Big Data & Data Science
 
@@ -47,7 +50,7 @@
 
 - EXPLORATORY DATA ANALYISIS
   
-  
+
 
 <br/>  
 
