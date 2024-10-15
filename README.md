@@ -22,12 +22,13 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren?tab=repositories) due to my motivation to professionally develop my knowledge in Data Science.
+- 🔭 I’m currently working on [my portfolio](https://github.com/enekoegiguren?tab=repositories) due to my motivation to professionally develop my knowledge in Data Engineering and his impact on Business.
   
 
 ## **<div align="left"> EDUCATION</div>**  
   
 - 🧑‍🎓 Data Engineer, diploma co-certified by MINES ParisTech | PSL & DataScientest
+  - Our project: [Development of an API for Automated Cryptocurrency Data Collection, Real-Time Analysis, and Integration of Machine Learning Models for Investors](https://github.com/DataScientest-Studio/CDE-OCT23-OPA)
 
 
 
@@ -42,14 +43,10 @@
   
 ## **<div align="left"> INTERESTS</div>**  
 
-- MACHINE LEARNING 📈📉 
+- DATA ENGINEERING 
 
 
 - BUSINESS INTELLIGENCE
-
-
-- EXPLORATORY DATA ANALYISIS
-  
 
 
 <br/>  
