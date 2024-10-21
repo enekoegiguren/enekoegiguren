@@ -55,8 +55,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="40%">
 
-
-
 ### Languages
 ---
 <div align="center">  
@@ -68,43 +66,39 @@
 ### Data Visualisation 
 ---
 <div align="center">  
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Matplotlib.svg.png" alt="Power Bi" height="40" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/seaborn.svg.png" alt="Power Bi" height="50" /></a> 
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server/reporting-services" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SQL_Server_Reporting_Services_logo.png/200px-SQL_Server_Reporting_Services_logo.png" alt="SSRS" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-
+<a href="https://www.qlik.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/QlikView_Logo.svg/1024px-QlikView_Logo.svg.png" alt="Qlik" height="50" /></a>  
+</div>
 
 </td><td valign="top" width="33%">
 
-  
 ### Tools
 ---
 <div align="center">  
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Pandas_logo.svg.png" alt="R" height="50" /></a>  
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/NumPy.svg.png" alt="R" height="50" /></a>  
-<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/enekoegiguren/enekoegiguren/blob/main/png/Scikit_learn.svg.png" alt="R" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/SQL_Server_Integration_Services_logo.png" alt="SSIS" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/sql/analysis-services/sql-server-analysis-services?view=sql-server-ver15" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/SQL_Server_Analysis_Services_logo.png" alt="SSAS" height="50" /></a>  
+<a href="https://spark.apache.org/docs/latest/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Apache_Spark_logo.svg/1920px-Apache_Spark_logo.svg.png" alt="PySpark" height="50" /></a>
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://airflow.apache.org/docs/apache-airflow/stable/_static/airflow-logo.png" alt="Airflow" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Docker_%22whale%22_logo.svg" alt="Docker" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo.jpg" alt="FastAPI" height="50" /></a>
 </div>
-
 
 </td><td valign="top" width="33%">
 
-
-
-### Next skills..   
+### Cloud & DevOps
 ---
 <div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img style="margin: 10px" src="https://learn.microsoft.com/en-us/fabric/media/fabric-logo.svg" alt="Microsoft Fabric" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/git-scm-128x128.png" alt="Git" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Azure_DevOps_Logo.svg" alt="Azure DevOps" height="50" /></a>  
+<a href="https://www.mlflow.org/" target="_blank"><img style="margin: 10px" src="https://www.mlflow.org/docs/latest/_static/mlflow_logo.png" alt="MLflow" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
+</td></tr></table>
 <br/>  
 
 
