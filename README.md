@@ -74,8 +74,6 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 
 
-</td><td valign="top" width="33%">
-
   
 ### Tools
 ---
@@ -87,6 +85,7 @@
 
 
 </td><td valign="top" width="33%">
+
 
 </td></tr></table>
 <br/>  
